@@ -26,8 +26,7 @@ setup(name='netrics',
           'scipy',
           'pandas',
           'numba',
-          'numexpr',
-          'itertools'
+          'numexpr'
       ],
       include_package_data=True,
       zip_safe=False)
